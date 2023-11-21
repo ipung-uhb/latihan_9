@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
           ),
         ),
         floatingActionButton: FloatingActionButton(
-          child: Icon(Icons.ac_unit),
+          child: Icon(Icons.access_alarm),
           onPressed: () {
             print('Oh, it is cold outside...');
           },
